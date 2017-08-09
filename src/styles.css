@@ -1,1 +1,21 @@
-/* You can add global styles to this file, and also import other style files */
+/* Estilos de las listas */
+.list-group-item:hover{
+  cursor: pointer;
+  background-color: #eee;
+}
+
+/* Estilos de las ventanas modal */
+.modal-header{
+  background-color: #eee;
+}
+
+/* Estilos del filtro de búsqueda */
+.col-filter{
+  height: 65px;
+}
+
+.input-filter{
+  position: absolute;
+  right: 15px;
+  bottom: 15px;
+}
